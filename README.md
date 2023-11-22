@@ -31,6 +31,13 @@
 - Organized files and entered data from papers to computer
 
 ## Projects
+## Hard Rock Riders for Car Rentals
+Developed a web application for a car rental service company using React JS that allows user to make a car rent reservation online, allows admin to manage cars, rents, services through a control panel. Transformed the car rent process from the traditional paper work to online.
+
+- [Hard Rock Riders](https://hardrockrental.net)
+
+![Hard Rock Riders](/assets/img/hardrockriders.jpg)
+
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
@@ -43,9 +50,4 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-![Bike Study](/assets/img/bike_study.jpeg) ![Bike Study](/assets/img/bike_study.jpeg)
-
-## Hard Rock Riders for Car Rentals
-Developed a web application for a car rental service company using React JS that allows user to make a car rent reservation online, allows admin to manage cars, rents, services through a control panel. Transformed the car rent process from the traditional paper work to online.
-
-- [Hard Rock Riders](https://hardrockrental.net)
+![Bike Study](/assets/img/bike_study.jpeg)
