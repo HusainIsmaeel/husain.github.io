@@ -32,22 +32,20 @@
 
 ## Projects
 ## Hard Rock Riders for Car Rentals
-Developed a web application for a car rental service company using React JS that allows user to make a car rent reservation online, allows admin to manage cars, rents, services through a control panel. Transformed the car rent process from the traditional paper work to online.
+Used **React Js** to develop a web application for a car rental service company using React JS that allows user to make a car rent reservation online, allows admin to manage cars, rents, services through a control panel. Transformed the car rent process from the traditional paper work to online.
 
 - [Hard Rock Riders](https://hardrockrental.net)
 
 ![Hard Rock Riders](/assets/img/hardrockriders.jpg)
 
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Validation Admin Panel
+Used **React Js** to develop an admin panel system for company to allow users (managers) to add, update and remove clients, parkings, promotions and users for multiple company's branches.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- [Validation Admin Panel: Demo Manual](/assets/vap.pptx)
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Validation Admin Panel](/assets/img/vap.jpg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Validation App
+Used **React Native** to develop an application to apply discounts for customers by scanning customer's parking ticket id or enter ticket id manually, as each client have their own user credentials to access the application features.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
+![Hard Rock Riders](/assets/img/validationapp.jpg)
