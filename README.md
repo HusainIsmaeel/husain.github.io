@@ -1,6 +1,6 @@
 # Software Developer
 
-#### Technical Skills: React, PHP, SQL, VB.NET, HTML, CSS, XML, JAVA, JAVASCRIPT
+#### Technical Skills: React, PHP, SQL, VB.NET, HTML, CSS, XML, JAVA, JAVASCRIPT, Firebase, Microsoft Access
 
 ## Education					       		
 - S.S.C., Commercial Advanced | Bahrain Vocational Male Secondary School (_June 2014_)	 			        		
@@ -31,21 +31,46 @@
 - Organized files and entered data from papers to computer
 
 ## Projects
-## Hard Rock Riders for Car Rentals
-Used **React Js** to develop a web application for a car rental service company using React JS that allows user to make a car rent reservation online, allows admin to manage cars, rents, services through a control panel. Transformed the car rent process from the traditional paper work to online.
+### Hard Rock Riders for Car Rentals
+Used **React JS** to develop a web application for a car rental service company using React JS that allows user to make a car rent reservation online, allows admin to manage cars, rents, services through a control panel. Transformed the car rent process from the traditional paper work to online.
 
 - [Hard Rock Riders](https://hardrockrental.net)
 
 ![Hard Rock Riders](/assets/img/hardrockriders.jpg)
 
 ### Validation Admin Panel
-Used **React Js** to develop an admin panel system for company to allow users (managers) to add, update and remove clients, parkings, promotions and users for multiple company's branches.
+Used **React JS, CSS, PHP and SQL** to develop a web application for company to allow users (managers) to add, update and remove clients, parkings, promotions and users for multiple company's branches.
 
 - [Validation Admin Panel: Demo Manual](/assets/vap.pptx)
 
 ![Validation Admin Panel](/assets/img/vap.jpg)
 
 ### Validation App
-Used **React Native** to develop an application to apply discounts for customers by scanning customer's parking ticket id or enter ticket id manually, as each client have their own user credentials to access the application features.
+Used **React Native, CSS, PHP and SQL** to develop a mobile application to apply discounts for customers by scanning customer's parking ticket id or enter ticket id manually, as each client have their own user credentials to access the application features.
 
-![Hard Rock Riders](/assets/img/validationapp.jpg)
+![Validation App](/assets/img/validationapp.jpg)
+
+### Quick Pay Reports
+Used **React JS, CSS, PHP and SQL** to develop an web application that allows users to view payments reports based on a parking location and time with the ability to save the payment report as an Excel file.
+
+![Quick Pay Reports](/assets/img/quickpayreports.jpg)
+
+### Attendance App
+Used **React Native, CSS, PHP and SQL** to develop a mobile application that allows employees to clock in and clock out by taking a selfie at the branch location with the help of google map API to collect more accurate result of location, then save all employee details with date and time in the database.
+
+![Attendance](/assets/img/attendance.jpg)
+
+### Video Downloader App
+Used **JAVA, JAVASCRIPT AND XML** on Android Studio to develop a premium mobile application that allows user to watch or save streamed videos based on the preferred resolution. Published and sold this application on Google Play Store.
+
+![Video Downloader App](/assets/img/application.jpg)
+
+### Scam Fighter App
+Used **JAVA, XML and Firebase** on Android Studio to develop a mobile application as my university graduation project that allows users to search for ecommerce websites and view the websites trustworthy based on customers reviews with assistance of ScamAdviser's rating system API. that provides websites data such as domaine age and country, SSL certifcate validity and ScamAdviser's TrustScore, users can up vote or down vote, rate and write reviews about the ecommerce website, users can read awarness articles and tips about scam avoidance, as business users can register on Scam Fighter to claim their websites by submitting a form and attach an official document as a proof, which will give the business user a special "verified" badge and the ability to reply on the users reviews written under their own websites after Scam Fighter's administrator reviews the business user's submitted form and accept to verify the business user's account.
+
+![Scam Fighter App](/assets/img/scamfighter.jpg)
+
+### TODO App
+Used **JAVA, XML and Firebase** on Android Studio to develop a small project for university, the application allows user register and make a tasks list with the ability to define each task priority, then tick the tasks that has been accomplished.
+
+![TODO App](/assets/img/todo.jpg)
