@@ -83,7 +83,7 @@ Used **VB.Net and Microsoft Access** to develop a small project for university, 
 ![M University Library](/assets/img/mulibrary.jpg)
 
 ### Clash Of Clans WhatsApp Bot
-Used **Node JS** to develop a WhatsApp for a mobile game by retrieving data from game API, allows user to use specific commands to view details about any player or any clan by their unique tags.
+Used **Node JS** to develop a WhatsApp bot for a mobile game that responds to user with data retrieved from game API, allows user to use specific commands to view details about any player or any clan by their unique tags.
 
 - [Github Repositry](https://github.com/HusainIsmaeel/COC-WhatsApp-Bot)
 
