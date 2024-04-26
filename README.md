@@ -7,6 +7,10 @@
 - B.Sc., Computer Science | University of Technology - Bahrain (_December 2021_)
 
 ## Work Experience
+**Sales Operations and Logistics Executive @ Logicom (_Feb 2024 - Present_)**
+- Receiving and returning goods through Microsoft Dynamics Nav
+- Coordinating between sales ops and logistics team
+  
 **Web Developer @ Freelance (_May 2023 - Present_)**
 - Developed web application with database design and management, API. and payment gateway integration based on client requirements
 - Provided training and technical support for client
